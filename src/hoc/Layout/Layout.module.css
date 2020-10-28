@@ -1,0 +1,13 @@
+.content {
+   margin-top: 68px;
+   
+}
+
+@media (min-width: 1000px) and (min-height: 600px) {
+   body{
+      background-color: #cf8f2e;
+   }
+
+
+}
+
